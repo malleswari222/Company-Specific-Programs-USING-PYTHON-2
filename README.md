@@ -9,3 +9,7 @@ write a  python program to reverse a string
 
 <img width="910" height="145" alt="image" src="https://github.com/user-attachments/assets/9d380dcf-b0e3-4ea3-abc2-95d426b36a2e" />
 
+
+Problem Statement-3:
+
+
